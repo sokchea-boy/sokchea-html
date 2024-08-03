@@ -1,0 +1,38 @@
+div{
+    background-color: pink;
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 10px;
+    border-bottom: 20px solid purple;
+    border-top: 20px solid purple;
+    margin: 20px;
+}
+#green{
+    border: dashed 5px yellow;
+    background-color: green;
+    text-align: center;
+    padding: 30px 20px;
+    color: #fff;
+    padding-top: 40px;
+    margin: 30px;
+}
+#red{
+    background-color: red;
+    padding: 40px;
+    width: 400px;
+    text-align: center;
+    color: #fff;
+    border-right: solid orange 20px;
+    padding-bottom: 80px;
+    margin-top: 30px;
+    margin: 30px;
+}
+#blue{
+    background-color: blue;
+    text-align: center;
+    border: dotted 10px black;
+    width: 50%;
+    color: #fff;
+    margin-top: 50px;
+    margin: 30px;
+}
